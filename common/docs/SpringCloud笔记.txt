@@ -1,0 +1,6 @@
+
+飞书链接：https://b11et3un53m.feishu.cn/wiki/MWQIw4Zvhil0I5ktPHwcoqZdnec?from=from_copylink   
+密码：j.N?-+4[
+
+#sentinel-dashboard运行指令
+java "-Dserver.port=8090" "-Dcsp.sentinel.dashboard.server=localhost:8090" "-Dproject.name=sentinel-dashboard" -jar sentinel-dashboard.jar
